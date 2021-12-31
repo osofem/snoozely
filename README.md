@@ -1,4 +1,4 @@
-## Snoozly
+## Snoozely
 
 A `sleep` function for nodejs!
 
