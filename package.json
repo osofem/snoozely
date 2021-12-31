@@ -13,5 +13,14 @@
     "snoozely"
   ],
   "author": "Oluwafemi Oso (@osofem)",
-  "license": "ISC"
+  "license": "ISC",
+  "types": "./dist\\snoozely.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osofem/snoozely.git"
+  },
+  "bugs": {
+    "url": "https://github.com/osofem/snoozely/issues"
+  },
+  "homepage": "https://github.com/osofem/snoozely#readme"
 }
